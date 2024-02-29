@@ -20,7 +20,7 @@ const styles = StyleSheet.create ({
     },
 
     text:{
-        color: "#f64348",
+        color: "#6495ed",
         fontSize: 30,
         fontWeight: "bold",
         paddingVertical: 30,
@@ -36,7 +36,7 @@ const styles = StyleSheet.create ({
         
     },
      bold: {
-        color: "#065425",
+        color: "#008b8b",
         fontWeight: "bold",
      }
 })
